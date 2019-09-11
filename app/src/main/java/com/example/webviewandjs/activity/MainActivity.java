@@ -36,7 +36,6 @@ public class MainActivity extends Activity {
             @Override
             public void onPageStarted(WebView view, String url, Bitmap favicon) {
                 Log.e("webview", "onPageStarted");
-                Log.e("webview", "onPageStarted");
             }
 
             @Override
